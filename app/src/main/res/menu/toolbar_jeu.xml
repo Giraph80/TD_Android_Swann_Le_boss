@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:id="@+id/toolbar_jeu">
+
+    <group >
+        <item
+            android:id="@+id/bouton_score"
+            android:title="@string/texte_item_score"
+            app:showAsAction="always" />
+        <item
+            android:title="0"
+            android:id="@+id/item_score"
+            app:showAsAction="always" />
+    </group>
+    <group>
+        <item
+            android:id="@+id/item_coeur_1"
+            android:icon="@drawable/ic_baseline_star_24"
+            android:title="coeur1"
+            app:showAsAction="always" />
+        <item
+            android:id="@+id/item_coeur_2"
+            android:icon="@drawable/ic_baseline_star_24"
+            android:title="coeur2"
+            app:showAsAction="always" />
+        <item
+            android:id="@+id/item_coeur_3"
+            android:icon="@drawable/ic_baseline_star_24"
+            android:title="coeur3"
+            app:showAsAction="always" />
+    </group>
+
+
+
+</menu>

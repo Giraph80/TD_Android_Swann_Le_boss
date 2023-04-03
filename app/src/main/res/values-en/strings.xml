@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TD_Android</string>
+    <string name="texte_jouer">Play</string>
+    <string name="texte_item_vies">Lives</string>
+    <string name="bouton_envoyer">Send</string>
+    <string name="bouton_effacer">Erase</string>
+    <string name="bouton_accueil">Home</string>
+    <string name="bouton_rejouer">Retry</string>
+    <string name="nom">Name</string>
+    <string name="saisir_votre_pseudo">Enter your pseudo</string>
+    <string name="BAD_RESPONSE">Wrong answer !</string>
+</resources>

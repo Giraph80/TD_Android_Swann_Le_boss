@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">TD_Android</string>
+    <string name="texte_jouer">Jouer</string>
+    <string name="texte_score" translatable="false">Score</string>
+    <string name="texte_item_score" translatable="false">Score : </string>
+    <string name="texte_item_vies">Vies</string>
+    <string name="bouton_effacer">Effacer</string>
+    <string name="chiffre_1" translatable="false">1</string>
+    <string name="chiffre_2" translatable="false">2</string>
+    <string name="chiffre_3" translatable="false">3</string>
+    <string name="chiffre_4" translatable="false">4</string>
+    <string name="chiffre_5" translatable="false">5</string>
+    <string name="chiffre_6" translatable="false">6</string>
+    <string name="chiffre_7" translatable="false">7</string>
+    <string name="chiffre_8" translatable="false">8</string>
+    <string name="chiffre_9" translatable="false">9</string>
+    <string name="chiffre_0" translatable="false">0</string>
+    <string name="bouton_envoyer">envoyer</string>
+    <string name="bouton_accueil">Accueil</string>
+    <string name="bouton_rejouer">Rejouer</string>
+    <string name="nom">Nom</string>
+    <string name="saisir_votre_pseudo">Saisir votre pseudo</string>
+    <string name="BAD_RESPONSE">Mauvaise réponse !</string>
+</resources>
